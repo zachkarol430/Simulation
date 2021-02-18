@@ -6,7 +6,7 @@ Simulation of 1000 replicate populations
 2. The average number of individuals in an extant population increases over each generation since some populations grow very large and survive, while other populations die raising the average number of individuals in an extant population. Populations with very low numbers will evenutally die out as well raising the average of number individuals also. In later generations there are very few populations left so the average is high, but these populations will eventually die out given enough time bringing the average to zero.
 
 
-3.The total number of individuals stays roughly the same(no more than 2600) throughout the generations until generation 5500. This makes sense as the expected value of population change would be 0 if there could be negatives. This is because the probability of replication and death are the same and both result in either a +1 or a -1 outcome. Eventually the total population goes to zero as all the populations go extinct and once extinct can no longer reproduce or die.
+3. The total number of individuals stays roughly the same(no more than 2600) throughout the generations until generation 5500. This makes sense as the expected value of population change would be 0 if there could be negatives. This is because the probability of replication and death are the same and both result in either a +1 or a -1 outcome. Eventually the total population goes to zero as all the populations go extinct and once extinct can no longer reproduce or die.
 
 Note and patterns:
 
